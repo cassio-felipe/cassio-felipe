@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```sh
 - Currently working at [Softplan](https://www.softplan.com.br)
